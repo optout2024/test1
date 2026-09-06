@@ -5,16 +5,15 @@ permalink: /rm-data-dictionary/
 ---
 <a id="top"></a>
 
-//]: # ( This is a comment.)
-
 This webpage serves as both a project page for the current RootsMagic release and an information repository for the historical <a href="#RM4-11">RM4-11 Data Dictionary</a> spreadsheet. The consolidated spreadsheet contains database details for each RootsMagic release starting with Version 4.  We will periodically update the RM4-11 spreadsheet as new database changes are documented and reviewed by the community.
 
 <table style="width:100%;padding-left: 0px" ;="" padding-top:="" 0px"="">
-<tbody><tr padding-left:="" 0px="">
+<tbody>
+<tr padding-left:="" 0px="">
 <td style="width:60%;padding-left: 0px"><text style="font-size:24px"><strong>RM11 Data Dictionary Project Overview</strong></text></td>
 <td style="width:15%"></td>
 <td style="width:25%"><text style="font-size:24px"><strong>Status: </strong></text><text style="font-size:24px;color:Black" ;=""><strong>Active</strong></text></td>
-</tr></table>
+</tr></tbody></table>
 
 
 Below you can view the RM11 Database project spreadsheet. We need your help to maintain the accuracy of this document. To get started:
