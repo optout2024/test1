@@ -11,7 +11,7 @@
   href: "/test1/rm-data-dictionary/"
 
 - title: "About"
-  href: "/test1/bout/"
+  href: "/test1/about/"
 
 - title: "Contact Me"
   href: "/test1/contact/"
@@ -19,8 +19,10 @@
 # Unplublished stuff
 #
 # - title: "Learn"
-#  href: "/learn"
+#  href: "/test1/learn/"
 # - title: "Finder"
-#  href: "/finder"
-# - title: "Finder"
-#  href: "/finder"
+#  href: "/test1/finder/"
+# - title: "Subscribe(r)"
+#  href: "/test1/subscribe/"
+# - title: "Tool Requests"
+#  href: "/test1/requests/"
