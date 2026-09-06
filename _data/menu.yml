@@ -1,20 +1,20 @@
 - title: "Blog"
-  href: "/blog/"
+  href: "/test1/blog/"
 
 - title: "Forums"
-  href: "/forums/"
+  href: "/test1/forums/"
 
 - title: "RM8"
-  href: "/rm8/"
+  href: "/test1/rm8/"
 
 - title: "RM Data Dictionary"
-  href: "/rm-data-dictionary/"
+  href: "/test1/rm-data-dictionary/"
 
 - title: "About"
-  href: "/about/"
+  href: "/test1/bout/"
 
 - title: "Contact Me"
-  href: "/contact/"
+  href: "/test1/contact/"
 
 # Unplublished stuff
 #
