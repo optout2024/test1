@@ -27,7 +27,7 @@ I share this in hopes that it helps readers understand the ways in which my post
 <br>
 I blog semi-regularly about a variety of topics. Most of my blog posts are about my career in tech, my thoughts on engineering culture, my travels, and other topics that interest me.
 
-Below is a list of my blog posts in chronological order and grouped by year. [Click here to see them grouped by category.](/categories/)
+Below is a list of my blog posts in chronological order and grouped by year. [Click here to see them grouped by category.](/test1/categories/)
 
 You can also search my blog using the box below. You'll get a list of links to any posts that contain the text you enter.
 
