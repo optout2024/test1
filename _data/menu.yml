@@ -1,14 +1,14 @@
 - title: "Blog"
   href: "/blog/"
 
-- title: "Talks"
-  href: "/talks/"
+- title: "Forums"
+  href: "/forums/"
 
-- title: "Workshops"
-  href: "/workshops/"
+- title: "RM8"
+  href: "/rm8/"
 
-- title: "Book Me"
-  href: "/booking/"
+- title: "RM Data Dictionary"
+  href: "/rm-data-dictionary/"
 
 - title: "About"
   href: "/about/"
@@ -16,7 +16,11 @@
 - title: "Contact Me"
   href: "/contact/"
 
-# Unplublish the resume page.
+# Unplublished stuff
 #
-# - title: "Résumé"
-#  href: "/resume/"
+# - title: "Learn"
+#  href: "/learn"
+# - title: "Finder"
+#  href: "/finder"
+# - title: "Finder"
+#  href: "/finder"
