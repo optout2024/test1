@@ -13,8 +13,7 @@
 - title: "About"
   href: "/test1/about/"
 
-- title: "Contact Me"
-  href: "/test1/contact/"
+
 
 # Unplublished stuff
 #
@@ -26,3 +25,5 @@
 #  href: "/test1/subscribe/"
 # - title: "Tool Requests"
 #  href: "/test1/requests/"
+# - title: "Contact Me"
+#  href: "/test1/contact/"
