@@ -5,8 +5,8 @@
     border-top: 0px solid $grey-color-dark;
 	border-bottom: 4px solid $rich-black;
     min-height: 56px;
-	background: $aggie-maroon;
-	// background: #0000ff;
+	//background: $aggie-maroon;
+	 background: #145419;
     // background: $clemson-orange;
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -89,7 +89,7 @@ color: #522d80;
 }
 
 .site-nav .sub-menu a:hover {
-	color: $aggie-maroon;
+	color: #145419;
 }
 .site-nav  .sub-menu {
 	background: #ffffff;
@@ -99,8 +99,8 @@ color: #522d80;
 	z-index:2147483647;
 }
 .site-nav .sub-menu li.current-menu-item > a {
-	border-left-color: $aggie-maroon;
-	border-right-color: $aggie-maroon;
+	border-left-color: #145419;
+	border-right-color: #145419;
 	border-right: 0px;
 
 }
@@ -160,7 +160,7 @@ z-index:999;
     // The font color and the background color of the top navigation list
     .page-link {
         color: #ffffff;
-    background: $aggie-maroon;
+    background: #145419;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
