@@ -21,4 +21,17 @@ Below you can view the RM11 Database project spreadsheet. We need your help to m
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6uIM75YqBCsPD0remvE43xWpKHdtyM-FT6I3mHxU1lGCT5G2LC95EK62pMcZIhw/pubhtml?gid=1835572408&amp;single=true&amp;widget=true&amp;headers=false" style="height:600px;width:100%;" title="RM11 Data Definitions Project"></iframe>
 
+Click <a href="https://docs.google.com/spreadsheets/d/1VenU0idUAmkbA9kffazvj5RX_dZn6Ncn/edit?usp=sharing&amp;ouid=104459570713722063434&amp;rtpof=true&amp;sd=true" target="”_blank”" rel="noopener">here</a> to add comments to the above RM11 Project document. This link opens in a new window.
+
+<a href="#top">Back to top</a>
+<br><br>
+
+<a id="RM4-11"></a>
+## Consolidated RM4-11 Data Dictionary
+
+The consolidated RM4-11 Data Dictionary spreadsheet contains information about database elements from current and prior RootsMagic releases, starting with version 4.  As noted above, this spreadsheet will be periodically updated as new database changes are documented and reviewed by the community. 
+
+Click <a href="https://docs.google.com/spreadsheets/d/1JE4RhNSIorL59aJy4pcmERfOm_3MgO-ys4ZGffHAvWs" target="”_blank”" rel="noopener">here</a> to open the RM4-11 spreadsheet in a new window.
+
+
 
