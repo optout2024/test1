@@ -10,13 +10,14 @@ After RootsMagic 4 was released, a small set of users started poking around in t
 
 Collaborators tcloud and Romer helped rapidly build a definition of the database design as we understood it. The pages of queries that could be useful tools grew in both quantity and complexity with contributions also from other Forum users, notably MVS in the early days and Jerry Bryan later, to some 260 pages and 250 SQL files in 2018. Overtime, the site name and URL evolved to the version-insensitive "SQLite Tools for RootsMagic".
 
-In 2014, Wikispaces was sold and what was free became a subscription with storage. Site members quickly covered the fees but, in 2018, Tangient decided to terminate Wikispaces rather than redevelop it with new technology. There followed a search for a new platform which involved launching a Groups.io forum for Wikispaces 'refugees' to share knowledge and experience. After trials of several web hosting platforms, the site was migrated to WordPress on Hostinger's platform. 
+In 2018, the owner of Wikispaces decided to retire the platform. There followed a search for a new platform which involved launching a Groups.io forum for Wikispaces 'refugees' to share knowledge and experience. After evaluating the then current options, the site was migrated in 2019 to WordPress on Hostinger's platform. 
 
 Today, the site maintains three areas of focus:
 1. Blog - containing deep dive analysis and solutions for many of the common questions and issues
 2. RootsMagic Data Dictionary - containing details of the current SQLite database structure as we understand it
 3. Forum  - for discussions, requests, and collaboration efforts among RootsMagic 
 
+Site members have generously rallied to cover hosting fees since 2014 when wikispaces ended their free platform. The ongoing cost has led to this effort to examine whether GitHub could provide an adequate alternative. 
 
 This website continues to evolve with the support of volunteers who are passionate about RootsMagic software. All are welcome.
 
