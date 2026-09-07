@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Short History of our Site
 permalink: /about/
 ---
 
