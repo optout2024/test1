@@ -4,11 +4,8 @@ title: Forums
 permalink: /forums/
 ---
 
-[//]: # (This is a comment.)
-[//]: # ({% include image.html url="" alt="" caption="" %} )
 
-
-Placeholder.... Fix this
+Placeholder.... 
 
 Test effort to assess moving site to [GitHub Pages](https://pages.github.com/). Forum replacement is a known unknown at this stage.  
 
