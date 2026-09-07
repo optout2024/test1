@@ -3,13 +3,23 @@ layout: page
 title: About
 permalink: /about/
 ---
+[//]: # (This is a comment.)
+//]: # ( {% include image.html url="" alt="" caption="" %} )
 
-{% include image.html url="/images/sin titulo013_4039.jpg" alt="family" caption="My Family" %}
+After RootsMagic 4 was released, a small set of users started poking around in their databases which were easily accessible using free software. This led to a wish posted to the RootsMagic Forums in Dec 2009 for 'A new Forum for SQLite interfaces to RM data'. It was met with enthusiasm but RootsMagic did not respond with an offer to host it so, on Dec 30, 2009, I launched sqlitetoolsforrootsmagic4.wikispaces.com on WikiSpaces which then offered a free wiki with 2GB storage.
 
-Hello! Most of the content on this site is about my career in technology, but, if you really want to know what I care about, look no further than my family. No matter whatever level of success I achieve, nothing will be more meaningful or significant to me than my family.
+Collaborators tcloud and Romer helped rapidly build a definition of the database design as we understood it. The pages of queries that could be useful tools grew in both quantity and complexity with contributions also from other Forum users, notably MVS in the early days and Jerry Bryan later, to some 260 pages and 250 SQL files in 2018.
 
-Another key thing to know about me is my belief in the power of communities. A community doesn't mean the absence of disagreement. On the contrary, a community is a place where people learn to work through their disagreements in order to achieve fair outcomes for everyone. This idea underlies a lot of the non-technical topics in my writings and in my talks.
+With new releases, the site name and URL evolved through "SQLite Tools for RootsMagic 5" to the version-insensitive "SQLite Tools for RootsMagic".
 
-While you've probably come to my site to learn more about me, I'd love to know more about you. Feel free to [contact me](/contact/), and I would enjoy getting to know you. I receive a lot of messages so I can't promise an immediate response, but I do read everything sent to me. We'll eventually connect.
+In 2014, Wikispaces was sold and what was free became a subscription with storage. Site members quickly covered the fees but, in 2018, Tangient decided to terminate Wikispaces rather than redevelop it with new technology.
 
-One reason I moved my site to [GitHub Pages](https://pages.github.com/) was my belief in the power of open source software (OSS). As an advocate, I felt it was important to run my own online space using OSS. You can view the source for this website on [GitHub](https://github.com/anjuan/anjuan.github.io). Feel free to fork and use it to build your own site. Pull requests are always welcome.
+There followed my search for a new platform which involved launching a Groups.io forum for Wikispaces 'refugees' to share knowledge and experience. After trials of several web hosting platforms, the site was migrated to WordPress on Hostinger's platform. The website contains 3 areas of focus:
+1. Blog - containing deep dive analysis and solutions for many of the common questions and issues
+2. RootsMagic Data Dictionary - containing details of the current SQLite database structure as we understand it
+3. Forum  - for discussions, requests, and collaboration efforts among RootsMagic 
+
+
+The site will continue to evolve with the support of volunteers who are passionate about RootsMagic software. All are welcome.
+
+

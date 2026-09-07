@@ -14,15 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#title: Anjuan Simmons
-#jobtitle: "Technology Translator"
+#title: 
+#jobtitle: ""
 #email: 
 #description: > # this means to ignore newlines until "baseurl:"
-  I'm a Technology Translator. Welcome to my site.
+  Add Description
 #baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "https://AnjuanSimmons.com" # the base hostname & protocol for your site
-#twitter_username: anjuan
-#github_username:  anjuan
+#twitter_username: 
+#github_username:  
 
 # Disqus Comments
 disqus:
@@ -38,10 +38,10 @@ permalink: blog/:year/:month/:title/
 excerpt_separator: "<!--more-->"
 
 # Google Analytics
-#google_analytics: UA-112266652-1
+#google_analytics: 
 
 # SEO stuff
-#google_author: "https://plus.google.com/u/0/+AnjuanSimmons"
+#google_author: ""
 
 plugins:
   - jekyll-sitemap
