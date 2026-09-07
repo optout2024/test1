@@ -7,6 +7,9 @@
 - title: "RM8"
   href: "/test1/rm8/"
 
+ - title: "Learn"
+  href: "/test1/learn/"
+
 - title: "RM Data Dictionary"
   href: "/test1/rm-data-dictionary/"
 
@@ -17,8 +20,6 @@
 
 # Unplublished stuff
 #
-# - title: "Learn"
-#  href: "/test1/learn/"
 # - title: "Finder"
 #  href: "/test1/finder/"
 # - title: "Subscribe(r)"
