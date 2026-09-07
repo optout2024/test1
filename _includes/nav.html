@@ -1,17 +1,15 @@
 <ul class="menu">
-OK what does this control
-
-[//]: # (T   {% for anjuan in site.data.menu %}  )
-[//]: # (    {% if test1.subcategories != null %} )
-[//]: # (  <li><a href="{{ anjuan.href }}" class="page-link">{{ anjuan.title }}</a> )
-[//]: # (    <ul class="sub-menu"> )
-[//]: # (    {% for subcategory in steve.subcategories %} )
-[//]: # (  <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li> )
-[//]: # (   {% endfor %} )
-[//]: # (  </ul> )
-[//]: # (  {% else %} )
-[//]: # (    <li><a href="{{ anjuan.href }}" class="page-link">{{ anjuan.title }}</a> )
-[//]: # (  {% endif %} )
-[//]: # (  </li> )
-[//]: # (    {% endfor %} )
-[//]: # (    </ul> )
+    {% for test1 in site.data.menu %}
+    {% if test1.subcategories != null %}
+    <li><a href="{{ test1.href }}" class="page-link">{{ test1.title }}</a>
+    <ul class="sub-menu">
+    {% for subcategory in steve.subcategories %}
+    <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+    {% endfor %}
+    </ul>
+    {% else %}
+     <li><a href="{{ test1.href }}" class="page-link">{{ test1.title }}</a>
+    {% endif %}
+    </li>
+    {% endfor %}
+    </ul>
