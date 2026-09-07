@@ -1,12 +1,8 @@
 ---
 layout: page
-title: Learn
+title: Learn about SQLite Tools for RootsMagic
 permalink: /learn/
 ---
-
-[//]: # (This is a comment.)
-[//]: # ({% include image.html url="" alt="" caption="" %} )
-
 
 Placeholder.... Fix this
 
