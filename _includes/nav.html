@@ -3,7 +3,7 @@
     {% if test1.subcategories != null %}
     <li><a href="{{ test1.href }}" class="page-link">{{ test1.title }}</a>
     <ul class="sub-menu">
-    {% for subcategory in steve.subcategories %}
+    {% for subcategory in test1.subcategories %}
     <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
     {% endfor %}
     </ul>
